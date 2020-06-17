@@ -1,2 +1,2 @@
 # tweety
-Twitter Bot
+Python based Twitter Bot
